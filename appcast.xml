@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Autanno_1.1</title>
+        <item>
+            <title>1.1</title>
+            <pubDate>Tue, 01 Sep 2026 20:02:30 -0600</pubDate>
+            <sparkle:version>13</sparkle:version>
+            <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://daemoncat.io/public/Autanno_1.1.zip" length="3757278" type="application/octet-stream" sparkle:edSignature="R+aUEFEQKKVDUHlSxzMQwSyMWUFOGWdgJI7ZFaZOPU/ICbLqkxKS+uP1MTUV7tCEWsdR8JbMYrBug2NFjXuHBA=="/>
+        </item>
+    </channel>
+</rss>
