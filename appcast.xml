@@ -8,7 +8,7 @@
             <sparkle:version>13</sparkle:version>
             <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://daemoncat.io/Autanno.zip" length="3746760" type="application/octet-stream" sparkle:edSignature="3OfpQKDIg85SYTnc+odJDpnBnCHycP5hE3XNcavaSKoSYyoWrENE1JR9UYbVNdecjPcYGYjUKkWnJDxnyptXBg=="/>
+            <enclosure url="https://raw.githubusercontent.com/daemoncat-io/autanno-app-latest/main/Autanno.zip" length="3746763" type="application/octet-stream" sparkle:edSignature="WbSshg/ucO5GZAkqDSungNGIEjiWq+OhXjioOc3Jra3S7trJPYvuBg0aa6Xg31s9IAV8uD+1eOiXFNlh9/WCDQ=="/>
         </item>
     </channel>
 </rss>
